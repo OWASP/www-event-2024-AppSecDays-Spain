@@ -14,8 +14,5 @@ keynotestextcolor: fff
 color: 242158
 analytics: 
 registration_open: true
-pitch: >-
-    **AN EVENT YOU WON'T WANT TO MISS**<br>
-    <br>
- OWASP Logroño and OWASP Barcelona are excited to invite you to 2024 AppSec Days Spain. We invite all application security professionals to join us on October 26th for a day of keynote speakers, technical and compliance training as well as networking opportunities. <br>
+pitch: test
 image_attribution: Hugo Costa
