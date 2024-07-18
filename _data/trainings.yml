@@ -5,7 +5,7 @@
       #Image: /assets/images/trainers/no-person.pg
       #Twitter: twitter_no_at_symbol
       #Biography: >-
-          John John has a bio
+      #    John John has a bio
       #TrainerId: trainer001
       #-Name: Trainer Dos
       #Email: tainer.dos@owasp.org
@@ -19,4 +19,4 @@
   #URL: 
   #SectionId: sku_IWAHBB
   #Description: >-
-      Oh yeah, we train defense
+  #    Oh yeah, we train defense
