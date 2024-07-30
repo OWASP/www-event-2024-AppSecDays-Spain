@@ -1,1 +1,1 @@
-# OWASP Global AppSec San Francisco 2022
+# OWASP AppSec Day Spain
