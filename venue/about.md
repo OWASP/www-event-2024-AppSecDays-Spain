@@ -1,8 +1,8 @@
 ---
 
-title: About the Venue
+title: CCT Building, La Rioja's University
 layout: event_noheader
-permalink: /venue/about/
+permalink: https://maps.app.goo.gl/eH8YnQaMW7wWqDvFA
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 
-title: Global AppSec San Francisco 2024
-layout: event-x
+title: Global AppSec Day Spain 2024
+layout: October 26, 2024
 
 ---
 
